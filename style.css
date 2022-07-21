@@ -1,7 +1,7 @@
 body {
   white-space: pre;
-  font-family: monospace;
-  font-size: 18px;
+  font-family: Menlo;
+  font-size: 12px;
   background: #282a36;
   color: #f8f8f2;
 }
@@ -23,7 +23,7 @@ a:visited {
 }
 
 .property {
-  font-weight: bold;
+  font-weight: regular;
   color: #8be9fd;
 }
 
